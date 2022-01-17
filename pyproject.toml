@@ -5,7 +5,7 @@ description = "Scripts for helps work to editing software talk movie used davinc
 authors = ["NUROKU <shimau6@yahoo.co.jp>"]
 
 [tool.poetry.dependencies]
-python = "3.6"
+python = "~3.6"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
